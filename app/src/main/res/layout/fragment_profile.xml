@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#086086"
+    tools:context="su.allabergen.zapiskz2.ProfileFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="Profile Fragment"
+        android:textColor="#fff"
+        android:textSize="24sp" />
+
+</FrameLayout>
